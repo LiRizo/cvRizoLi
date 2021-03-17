@@ -1,0 +1,87 @@
+{
+  "nombre_completo":"Linda Canaima ",
+  "apellidos": "Rizo Contreras",
+  "descripcion":"Soy creativa, tengo habilidades de planificación, pasión por el aprendizaje continuo, buen manejo de relaciones interpersonales, flexibilidad y adaptación en nuevos ambientes de trabajo.",
+  "correo":"lirizoc@gmail.com",
+  "formacion":[
+      {
+          "nombre_formacion":"C & C",
+          "Detalle_formacion":"Diplomado diseño de moda",
+          "fecha":"2013"
+      },
+      {
+          "nombre_formacion":"Licenciada",
+          "Detalle_formacion":"Comunicación Digital Universidad UNIACC",
+          "fecha":"2019"
+      },
+      {
+        "nombre_formacion":"Laboratoria",
+        "Detalle_formacion":"Frontend Developer",
+        "fecha":"2020"
+      }
+  ],
+  "conocimientos": [
+      {
+        "nombre_conocimiento":"HTML5",
+        "logo":""
+      },
+      {
+        "nombre_conocimiento":" CSS",
+        "logo":""
+      },
+      {
+        "nombre_conocimiento":"Javascript",
+        "logo":""
+      },
+      {
+        "nombre_conocimiento":"Angular",
+        "logo":""
+      },
+      {
+        "nombre_conocimiento":"NukeX",
+        "logo":""
+      },
+      {
+        "nombre_conocimiento":"Unity",
+        "logo":""
+      },
+      {
+        "nombre_conocimiento":"Photoshop",
+        "logo":""
+      },
+      {
+        "nombre_conocimiento":"Premiere",
+        "logo":""
+      },
+      {
+        "nombre_conocimiento":"Blender",
+        "logo":""
+      }
+  ],
+  "experiencia":[
+      {
+          "nombre_experiencia":"Red Social",
+          "fecha_experiencia":"mayo 2020",
+          "detalle_experiencia":"Una App web responsiva para los amantes de mascotas donde pueden interactuar, concursar y saber información en cuanto a cuidados y servicios.",
+          "tecnologias_experiencia":"Implementación en JS, Firebase, HTML5, CSS, Flexbox, Grid"
+      },
+      {
+        "nombre_experiencia":"Burger Queen",
+        "fecha_experiencia":"junio 2020",
+        "detalle_experiencia":"App web responsiva para una mejor coordinación entre los meseros y cocineros de un restaurante.",
+        "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS"
+      },
+      {
+        "nombre_experiencia":"Fact Checker",
+        "fecha_experiencia":"agosto 2020",
+        "detalle_experiencia":"Trivia para adultos mayores, referente a la pandemia del 2020, con la modalidad de informar y compartir fuentes confiables.",
+        "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS"
+      }
+  ],
+  "idiomas":[
+      {
+          "nombre_idioma":"Inglés",
+          "nivel_idioma":"Básico"
+      }
+  ]
+}
