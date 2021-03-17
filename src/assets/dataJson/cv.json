@@ -1,22 +1,26 @@
 {
   "nombre_completo":"Linda Canaima ",
   "apellidos": "Rizo Contreras",
+  "especialidad": "Frontend Developer",
   "descripcion":"Soy creativa, tengo habilidades de planificación, pasión por el aprendizaje continuo, buen manejo de relaciones interpersonales, flexibilidad y adaptación en nuevos ambientes de trabajo.",
   "correo":"lirizoc@gmail.com",
+  "github":"https://github.com/LiRizo",
+  "numero": "+56987787597",
+  "linkedin":"",
   "formacion":[
       {
           "nombre_formacion":"C & C",
-          "Detalle_formacion":"Diplomado diseño de moda",
+          "detalle_formacion":"Diplomado diseño de moda",
           "fecha":"2013"
       },
       {
           "nombre_formacion":"Licenciada",
-          "Detalle_formacion":"Comunicación Digital Universidad UNIACC",
+          "detalle_formacion":"Comunicación Digital Universidad UNIACC",
           "fecha":"2019"
       },
       {
         "nombre_formacion":"Laboratoria",
-        "Detalle_formacion":"Frontend Developer",
+        "detalle_formacion":"Frontend Developer",
         "fecha":"2020"
       }
   ],
@@ -78,7 +82,7 @@
         "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS"
       }
   ],
-  "idiomas":[
+  "idioma":[
       {
           "nombre_idioma":"Inglés",
           "nivel_idioma":"Básico"

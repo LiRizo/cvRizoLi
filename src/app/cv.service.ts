@@ -16,10 +16,10 @@ export class CvService {
   private handleError(error: HttpErrorResponse) {
 
     if (error.error instanceof ErrorEvent) {
-      // A client-side or network error occurred. Handle it accordingly.
+      // A client-side or network error occurred.
       console.error("An error occurred:", error.error.message);
     } else {
-      // The backend returned an unsuccessful response code. The response body may contain clues as to what went wrong,
+      // The backend returned an unsuccessful response code.
       console.error(
         `Backend returned code ${error.status}, ` + `body was: ${error.error}`
       );
@@ -35,8 +35,7 @@ export class CvService {
 
   getCv(): Observable<any> {
     console.log(this.cvJson)
-    return this.httpCv.get(this.cvJson).
-      pipe(map(this.extractData), catchError(this.handleError));
+    return this.httpCv.get(this.cvJson).pipe(map(this.extractData), catchError(this.handleError));
 
   }
 }

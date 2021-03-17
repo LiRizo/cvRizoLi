@@ -16,8 +16,6 @@ export class HomeComponent implements OnInit {
     this.cvService.getCv().subscribe(
       (data) => {
         this.cv = data['data'];
-        console.log("test", data);
-
       },
       (err) => {
         console.log(err);
