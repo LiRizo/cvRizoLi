@@ -8,14 +8,14 @@ import { CvService } from 'src/app/cv.service';
 })
 export class HomeComponent implements OnInit {
 
-  cv: any[];
+  cvData: any[];
 
   constructor(private cvService: CvService) { }
 
   ngOnInit(): void {
     this.cvService.getCv().subscribe(
       (data) => {
-        this.cv = data['data'];
+        this.cvData = data;
       },
       (err) => {
         console.log(err);

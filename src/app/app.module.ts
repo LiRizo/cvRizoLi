@@ -12,6 +12,7 @@ import { FormationComponent } from './components/formation/formation.component';
 import { SkillComponent } from './components/skill/skill.component';
 import { ExperienceComponent } from './components/experience/experience.component';
 import { LanguageComponent } from './components/language/language.component';
+import { CvService } from './cv.service';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,7 @@ import { LanguageComponent } from './components/language/language.component';
     AppRoutingModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [CvService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
