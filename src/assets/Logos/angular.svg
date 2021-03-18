@@ -3,15 +3,21 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 448 512" style="enable-background:new 0 0 448 512;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#C5B164;}
-	.st1{fill:#D9CB7D;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#C5B164;}
+	.st2{fill:#D9CB7D;}
 </style>
-<g id="Layer_1" focusable="false">
-	<path class="st0" d="M185.7,268.1h76.2l-38.1-91.6L185.7,268.1L185.7,268.1z M223.8,32L16,106.4l31.8,275.7l176,97.9l176-97.9
-		l31.8-275.7L223.8,32z M354,373.8h-48.6l-26.2-65.4H168.6l-26.2,65.4H93.7L223.8,81.5L354,373.8z"/>
-</g>
 <g id="Layer_2">
-	<polygon class="st1" points="223.8,52.5 409.7,122.3 378.5,374 224,459.3 224,308.4 279.2,308.4 305.4,373.8 354,373.8 223.8,81.5 
-			"/>
+	<rect x="93.7" y="86" class="st0" width="265.3" height="287.8"/>
+</g>
+<g id="Layer_1">
+	<g id="Layer_1_1_" focusable="false">
+		<path class="st1" d="M185.7,268.1h76.2l-38.1-91.6L185.7,268.1L185.7,268.1z M223.8,32L16,106.4l31.8,275.7l176,97.9l176-97.9
+			l31.8-275.7L223.8,32z M354,373.8h-48.6l-26.2-65.4H168.6l-26.2,65.4H93.7L223.8,81.5L354,373.8z"/>
+	</g>
+	<g id="Layer_2_1_">
+		<polygon class="st2" points="223.8,52.5 409.7,122.3 378.5,374 224,459.3 224,308.4 279.2,308.4 305.4,373.8 354,373.8 
+			223.8,81.5 		"/>
+	</g>
 </g>
 </svg>

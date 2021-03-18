@@ -1,1 +1,12 @@
-<p>skill works!</p>
+
+<div class="order-1 col-8">
+
+  <div class="card mt-2" style="width: 8rem; background: none;" *ngFor="let skill of skills; index as i">
+    <img src="{{skill.logo}}" class="card-img-top" style="width: 6rem;" alt="...">
+    <div class="card-body">
+      <p class="card-title">{{skill.nombre_conocimiento}}</p>
+
+    </div>
+  </div>
+
+</div>

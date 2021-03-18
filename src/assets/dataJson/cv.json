@@ -35,19 +35,19 @@
       },
       {
         "nombre_conocimiento":"Javascript",
-        "logo":""
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/2b24f75692b6889da59a9069f76e6be65dc97673/src/assets/Logos/js-brands.svg"
       },
       {
         "nombre_conocimiento":"Angular",
-        "logo":""
-      },
-      {
-        "nombre_conocimiento":"NukeX",
-        "logo":""
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/2b24f75692b6889da59a9069f76e6be65dc97673/src/assets/Logos/angular.svg"
       },
       {
         "nombre_conocimiento":"Unity",
         "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/unity.com.svg"
+      },
+      {
+        "nombre_conocimiento":"Illustrator",
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/2b24f75692b6889da59a9069f76e6be65dc97673/src/assets/Logos/ai.svg"
       },
       {
         "nombre_conocimiento":"Photoshop",
