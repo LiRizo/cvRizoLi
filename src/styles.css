@@ -1,6 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 body{
+  position: absolute;
+  width: 100vw;
   background-color: #242529;
+  overflow-x: hidden;
 }
 h1, h2, h3, p{
   color: #f5f5f5;

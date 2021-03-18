@@ -32,7 +32,7 @@ export class CvService {
     let body = res;
     return body || {};
   }
-
+//to obtain the data and also to be able to know if there was an error if it is not obtained.
   getCv(): Observable<any> {
     console.log(this.cvJson)
     return this.httpCv.get(this.cvJson).pipe(map(this.extractData), catchError(this.handleError));

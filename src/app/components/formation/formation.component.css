@@ -1,0 +1,12 @@
+hr {
+  color: #ebb940;
+  width: 80%;
+  align-items: center;
+  margin: auto;
+}
+
+.gradu-s{
+  display: flex;
+  direction: row;
+
+  }
