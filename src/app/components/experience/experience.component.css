@@ -1,0 +1,7 @@
+.order-s{
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  padding: 5rem;
+  margin-right: 6rem;
+}

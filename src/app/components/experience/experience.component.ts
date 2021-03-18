@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { CvService } from 'src/app/cv.service';
 
 @Component({
   selector: 'app-experience',
@@ -7,9 +8,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ExperienceComponent implements OnInit {
 
-  constructor() { }
+  cvData: any[];
+  experiences: any[];
+
+  constructor(private cvService: CvService) { }
 
   ngOnInit(): void {
+    this.cvService.getCv().subscribe(
+      (data) => {
+        this.cvData = data;
+        this.experiences = this.cvData['experiencia'];
+      },
+      (err) => {
+        console.log(err);
+      }
+    );
   }
 
 }

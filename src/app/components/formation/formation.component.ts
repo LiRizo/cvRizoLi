@@ -11,7 +11,7 @@ export class FormationComponent implements OnInit {
   cvData: any[];
   formations: any[];
 
-  constructor(private cvService : CvService) { }
+  constructor(private cvService: CvService) { }
 
 
   ngOnInit(): void {
