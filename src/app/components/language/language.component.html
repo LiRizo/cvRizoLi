@@ -1,1 +1,17 @@
-<p>language works!</p>
+<div>
+  <div class="p-4">
+    <h1 class="title-s">Idioma</h1>
+  </div>
+
+  <div class="lenguage-s" *ngFor="let language of languages; index as i">
+    <div class="space-s">
+      <h2>{{language.nombre_idioma}}</h2>
+    </div>
+    <div class="level-s">
+      <h2 style="color: #ebb940;">{{language.inicial_nivel}}</h2>
+      <h2>{{language.nivel_idioma}}</h2>
+    </div>
+
+  </div>
+
+</div>

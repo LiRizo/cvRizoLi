@@ -1,41 +1,20 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
-<path xmlns="http://www.w3.org/2000/svg" style="" d="M512,256c0,82.317-38.86,155.564-99.234,202.397C369.455,492.001,315.068,512,256,512  c-58.535,0-112.473-19.644-155.596-52.705C39.361,412.515,0,338.85,0,256C0,114.615,114.615,0,256,0S512,114.615,512,256z" fill="#f2d949" data-original="#f2f2f2" class=""/>
-<path xmlns="http://www.w3.org/2000/svg" style="" d="M441.992,119.474l-29.226,338.923C369.455,492.001,315.068,512,256,512  c-58.535,0-112.473-19.644-155.596-52.705L71.105,119.474H441.992z" fill="#c5b164" data-original="#e64c18" class=""/>
-<polygon xmlns="http://www.w3.org/2000/svg" style="" points="256.546,151.249 256.546,504.167 378.46,469.75 405.655,151.249 " fill="#d9cb7d" data-original="#f36518" class=""/>
-<polygon xmlns="http://www.w3.org/2000/svg" style="" points="140.903,195.528 152.858,337.091 311.761,337.091 306.562,395.568 256.549,409.112   204.46,394.52 203.152,358.061 154.631,358.061 160.705,429.941 256.549,457.028 352.392,429.941 364.27,289.295 196.928,289.295   192.775,243.456 192.774,243.454 368.226,242.535 372.194,195.528 " fill="#fffbe8" data-original="#ffffff" class=""/>
-<polygon xmlns="http://www.w3.org/2000/svg" points="151.159,16.796 151.159,41.117 127.921,41.117 127.921,16.796 106.303,16.796 106.303,86.513 127.921,86.513   127.921,63.815 151.159,63.815 151.159,86.513 172.777,86.513 172.777,16.796 " fill="#f5f5f5" data-original="#000000" style="" class=""/>
-<polygon xmlns="http://www.w3.org/2000/svg" points="249.521,16.796 183.045,16.796 183.045,41.117 204.663,41.117 204.663,87.055 227.903,87.055 227.903,41.117   249.521,41.117 " fill="#f5f5f5" data-original="#000000" style="" class=""/>
-<polygon xmlns="http://www.w3.org/2000/svg" points="373.284,64.895 373.284,17.337 350.044,17.337 350.044,64.895 350.044,87.055 373.284,87.055 406.79,87.055   406.79,64.895 " fill="#f5f5f5" data-original="#000000" style="" class=""/>
-<polygon xmlns="http://www.w3.org/2000/svg" points="314.914,17.337 298.702,42.197 282.488,17.337 259.249,17.337 259.249,87.055 282.488,87.055 282.488,52.465   298.702,77.327 314.914,52.465 314.914,87.055 338.154,87.055 338.154,17.337 " fill="#f5f5f5" data-original="#000000" style="" class=""/>
-<g xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svgjs="http://svgjs.com/svgjs"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2D949;}
+	.st1{fill:#C5B164;}
+	.st2{fill:#D9CB7D;}
+	.st3{fill:#FFFBE8;}
+</style>
+<g>
+	<path class="st0" d="M512,256c0,82.3-38.9,155.6-99.2,202.4C369.5,492,315.1,512,256,512c-58.5,0-112.5-19.6-155.6-52.7
+		C39.4,412.5,0,338.9,0,256C0,114.6,114.6,0,256,0S512,114.6,512,256z"/>
+	<path class="st1" d="M442,119.5l-29.2,338.9C369.5,492,315.1,512,256,512c-58.5,0-112.5-19.6-155.6-52.7L71.1,119.5H442z"/>
+	<polygon class="st2" points="256.5,151.2 256.5,504.2 378.5,469.8 405.7,151.2 	"/>
+	<polygon class="st3" points="140.9,195.5 152.9,337.1 311.8,337.1 306.6,395.6 256.5,409.1 204.5,394.5 203.2,358.1 154.6,358.1 
+		160.7,429.9 256.5,457 352.4,429.9 364.3,289.3 196.9,289.3 192.8,243.5 192.8,243.5 368.2,242.5 372.2,195.5 	"/>
 </g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-<g xmlns="http://www.w3.org/2000/svg">
-</g>
-</g></svg>
+</svg>

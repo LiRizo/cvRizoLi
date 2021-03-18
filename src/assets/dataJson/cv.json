@@ -39,11 +39,11 @@
       },
       {
         "nombre_conocimiento":"Angular",
-        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/2b24f75692b6889da59a9069f76e6be65dc97673/src/assets/Logos/angular.svg"
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/dcece75f4d08039b6f08d2d7a556dcb06aa73aa0/src/assets/Logos/angular.svg"
       },
       {
         "nombre_conocimiento":"Unity",
-        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/unity.com.svg"
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/dcece75f4d08039b6f08d2d7a556dcb06aa73aa0/src/assets/Logos/unity.com.svg"
       },
       {
         "nombre_conocimiento":"Illustrator",
@@ -59,7 +59,11 @@
       },
       {
         "nombre_conocimiento":"Blender",
-        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/blender.com.svg"
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/dcece75f4d08039b6f08d2d7a556dcb06aa73aa0/src/assets/Logos/blender.svg"
+      },
+      {
+        "nombre_conocimiento":"NukeX",
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/dcece75f4d08039b6f08d2d7a556dcb06aa73aa0/src/assets/Logos/nuke.svg"
       }
   ],
   "experiencia":[
@@ -85,7 +89,13 @@
   "idioma":[
       {
           "nombre_idioma":"Inglés",
-          "nivel_idioma":"Básico"
+          "inicial_nivel": "B",
+          "nivel_idioma":"ásico"
+      },
+      {
+        "nombre_idioma":"Español",
+        "inicial_nivel": "N",
+        "nivel_idioma":"ativo"
       }
   ]
 }

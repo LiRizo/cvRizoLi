@@ -1,0 +1,13 @@
+.lenguage-s{
+  display: flex;
+  direction: row;
+}
+
+.level-s{
+display: flex;
+
+}
+.space-s{
+  display: flex;
+  margin-right: 2rem;
+}
