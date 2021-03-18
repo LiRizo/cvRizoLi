@@ -27,11 +27,11 @@
   "conocimientos": [
       {
         "nombre_conocimiento":"HTML5",
-        "logo":""
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/html-5.svg"
       },
       {
         "nombre_conocimiento":" CSS",
-        "logo":""
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/css.svg"
       },
       {
         "nombre_conocimiento":"Javascript",
@@ -47,19 +47,19 @@
       },
       {
         "nombre_conocimiento":"Unity",
-        "logo":""
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/unity.com.svg"
       },
       {
         "nombre_conocimiento":"Photoshop",
-        "logo":""
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/photoshop.svg"
       },
       {
         "nombre_conocimiento":"Premiere",
-        "logo":""
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/premiere.svg"
       },
       {
         "nombre_conocimiento":"Blender",
-        "logo":""
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/blender.com.svg"
       }
   ],
   "experiencia":[
