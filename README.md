@@ -11,11 +11,11 @@
 
 El producto es un resumen de las experiencias y conocimientos. Guiándonos del original que verán en a continuación. 
 
-<img src="">
+<img src="https://github.com/LiRizo/cvRizoLi/blob/master/src/assets/img/cv.JPG?raw=true">
 
 ## 2. Trello
 
-<img src="">
+<img src="https://github.com/LiRizo/cvRizoLi/blob/master/src/assets/img/trelloCvAngular.JPG?raw=true">
 
 [Link del trello]( https://trello.com/b/OAnYYeuN/cv-angular)
 
