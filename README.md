@@ -9,7 +9,7 @@
 
 ## 1. Cv
 
-El producto es un resumen de las experiencias y conocimientos. Guiándonos del original que verán en a continuación. 
+El producto es un resumen de las experiencias y conocimientos. Guiándonos del original que verán a continuación. 
 
 <img src="https://github.com/LiRizo/cvRizoLi/blob/master/src/assets/img/cv.JPG?raw=true" width= 300px>
 
