@@ -27,11 +27,11 @@
   "conocimientos": [
       {
         "nombre_conocimiento":"HTML5",
-        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/html-5.svg"
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/b2a55545280c9ef9734fbd410a1eb9cdb9ec07c1/src/assets/Logos/html-5.svg"
       },
       {
         "nombre_conocimiento":" CSS",
-        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/css.svg"
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/b2a55545280c9ef9734fbd410a1eb9cdb9ec07c1/src/assets/Logos/css.svg"
       },
       {
         "nombre_conocimiento":"Javascript",
