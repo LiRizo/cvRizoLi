@@ -65,18 +65,21 @@
   "experiencia":[
       {
           "nombre_experiencia":"Red Social",
+          "link":"https://lirizo.github.io/SCL013-social-network/src/index.html#/mas-sobre-PL",
           "fecha_experiencia":"mayo 2020",
           "detalle_experiencia":"Una App web responsiva para los amantes de mascotas donde pueden interactuar, concursar y saber información en cuanto a cuidados y servicios.",
           "tecnologias_experiencia":"Implementación en JS, Firebase, HTML5, CSS, Flexbox, Grid."
       },
       {
         "nombre_experiencia":"Burger Queen",
+        "link":"https://moongold-lab.web.app/#/home",
         "fecha_experiencia":"junio 2020",
         "detalle_experiencia":"App web responsiva para una mejor coordinación entre los meseros y cocineros de un restaurante.",
         "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS."
       },
       {
         "nombre_experiencia":"Fact Checker",
+        "link":"https://openproject-afd9c.web.app/assets/image/ala-grande-g.svg",
         "fecha_experiencia":"agosto 2020",
         "detalle_experiencia":"Trivia para adultos mayores, referente a la pandemia del 2020, con la modalidad de informar y compartir fuentes confiables.",
         "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS."
