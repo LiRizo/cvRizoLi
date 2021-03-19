@@ -19,6 +19,9 @@ a{
   color: #F2D949;
   text-decoration: none;
 }
+a:hover{
+  color: #C0B6AA;
+}
 
 .title-s{
   color: #F2D949;
@@ -28,3 +31,4 @@ a{
   display: flex;
   direction: row;
 }
+
