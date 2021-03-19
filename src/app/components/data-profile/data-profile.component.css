@@ -2,16 +2,6 @@
   width: 6rem;
 }
 
-.github-s{
-  display: flex;
-  direction: row;
-}
-
-.number-s {
-  display: flex;
-  direction: row;
-}
-
 .order1-s{
 display: flex;
 flex-direction: column;
@@ -22,5 +12,5 @@ align-items: center;
 .order2-s{
   display: flex;
   justify-content: center;
-  padding: 5rem;
+  padding: 1rem;
   }

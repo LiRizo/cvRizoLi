@@ -1,27 +1,27 @@
-# CvRizoLi
+# Cv en Angular 
+## Índice
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+* [1. Cv](#1-Cv)
+* [2. Trello](#2-Trello)
+* [3. Página](#3-Página)
 
-## Development server
+***
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 1. Cv
 
-## Code scaffolding
+El producto es un resumen de las experiencias y conocimientos. Guiándonos del original que verán en a continuación. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img src="">
 
-## Build
+## 2. Trello
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+<img src="">
 
-## Running unit tests
+[Link del trello]( https://trello.com/b/OAnYYeuN/cv-angular)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 3. Página
 
-## Running end-to-end tests
+### Pruébala
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+[Cv](https://cv-rizoli.web.app/home)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).

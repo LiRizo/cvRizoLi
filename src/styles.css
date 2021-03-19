@@ -24,3 +24,7 @@ a{
   color: #F2D949;
   font-weight: bold;
 }
+.icons-s{
+  display: flex;
+  direction: row;
+}

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cv-rizoli": {
+      "hosting": {
+        "cvRizoLi": [
+          "cv-rizoli"
+        ]
+      }
+    }
+  }
+}

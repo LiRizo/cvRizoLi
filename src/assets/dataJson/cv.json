@@ -42,10 +42,6 @@
         "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/dcece75f4d08039b6f08d2d7a556dcb06aa73aa0/src/assets/Logos/angular.svg"
       },
       {
-        "nombre_conocimiento":"Unity",
-        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/dcece75f4d08039b6f08d2d7a556dcb06aa73aa0/src/assets/Logos/unity.com.svg"
-      },
-      {
         "nombre_conocimiento":"Illustrator",
         "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/2b24f75692b6889da59a9069f76e6be65dc97673/src/assets/Logos/ai.svg"
       },
@@ -58,8 +54,8 @@
         "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/9cb05b7f15bdc0b9db80bf9834feb3e36ad41f5c/src/assets/Logos/premiere.svg"
       },
       {
-        "nombre_conocimiento":"Blender",
-        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/dcece75f4d08039b6f08d2d7a556dcb06aa73aa0/src/assets/Logos/blender.svg"
+        "nombre_conocimiento":"Unity",
+        "logo":"https://raw.githubusercontent.com/LiRizo/cvRizoLi/dcece75f4d08039b6f08d2d7a556dcb06aa73aa0/src/assets/Logos/unity.com.svg"
       },
       {
         "nombre_conocimiento":"NukeX",
@@ -71,19 +67,19 @@
           "nombre_experiencia":"Red Social",
           "fecha_experiencia":"mayo 2020",
           "detalle_experiencia":"Una App web responsiva para los amantes de mascotas donde pueden interactuar, concursar y saber información en cuanto a cuidados y servicios.",
-          "tecnologias_experiencia":"Implementación en JS, Firebase, HTML5, CSS, Flexbox, Grid"
+          "tecnologias_experiencia":"Implementación en JS, Firebase, HTML5, CSS, Flexbox, Grid."
       },
       {
         "nombre_experiencia":"Burger Queen",
         "fecha_experiencia":"junio 2020",
         "detalle_experiencia":"App web responsiva para una mejor coordinación entre los meseros y cocineros de un restaurante.",
-        "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS"
+        "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS."
       },
       {
         "nombre_experiencia":"Fact Checker",
         "fecha_experiencia":"agosto 2020",
         "detalle_experiencia":"Trivia para adultos mayores, referente a la pandemia del 2020, con la modalidad de informar y compartir fuentes confiables.",
-        "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS"
+        "tecnologias_experiencia":"Implementación en Angular, Firebase, Bootstrap, HTML5, CSS."
       }
   ],
   "idioma":[

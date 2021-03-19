@@ -4,9 +4,8 @@ hr {
   align-items: center;
   margin: auto;
 }
-
-.gradu-s{
+.icon-s{
   display: flex;
   direction: row;
-
-  }
+  color: #f5f5f5;
+}
