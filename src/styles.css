@@ -1,34 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
-body{
+body {
   position: absolute;
   width: 100vw;
   background-color: #242529;
   overflow-x: hidden;
 }
-h1, h2, h3, p{
+h1,
+h2,
+h3,
+p {
   color: #f5f5f5;
 }
 
-h5{
-  color: #F2D949;
+h5 {
+  color: #f2d949;
 }
 
-a{
+a {
   font-size: 2.6rem;
   margin: 1rem;
-  color: #F2D949;
+  color: #f2d949;
   text-decoration: none;
 }
-a:hover{
-  color: #C0B6AA;
+a:hover {
+  color: #c0b6aa;
 }
 
-.title-s{
-  color: #F2D949;
+.title-s {
+  color: #f2d949;
   font-weight: bold;
 }
-.icons-s{
+.icons-s {
   display: flex;
   direction: row;
 }
-

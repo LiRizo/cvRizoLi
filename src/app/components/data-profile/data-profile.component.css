@@ -2,15 +2,14 @@
   width: 6rem;
 }
 
-.order1-s{
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-
+.order1-s {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.order2-s{
+.order2-s {
   display: flex;
   justify-content: center;
   padding: 1rem;
-  }
+}
