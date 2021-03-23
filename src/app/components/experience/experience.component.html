@@ -1,13 +1,15 @@
 <div class="order-s">
   <h1 class="title-s">Experiencia</h1>
 
-  <div class="card mt-2" style="width: 26rem; background: none; border: none;" *ngFor="let experience of experiences; index as i">
+  <div class="card mt-2" style="width: 26rem; background: none; border: none;"
+    *ngFor="let item of experience; index as i">
 
     <div class="card-body">
-      <a style="color: #F5F5F5; margin: 0; padding: 0;" href="{{experience.link}}" target="_blank">{{experience.nombre_experiencia}}</a>
-      <h2 class="card-title">{{experience.fecha_experiencia}}</h2>
-      <p class="card-text">{{experience.detalle_experiencia}}</p>
-      <h5 class="card-text">{{experience.tecnologias_experiencia}}</h5>
+      <a style="color: #F5F5F5; margin: 0; padding: 0;" href="{{item.link}}"
+        target="_blank">{{item.nombre_experiencia}}</a>
+      <h2 class="card-title">{{item.fecha_experiencia}}</h2>
+      <p class="card-text">{{item.detalle_experiencia}}</p>
+      <h5 class="card-text">{{item.tecnologias_experiencia}}</h5>
     </div>
   </div>
 

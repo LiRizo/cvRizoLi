@@ -4,17 +4,17 @@
   <div class="d-flex justify-content-center">
 
     <div class="aboutme-s">
-      <app-about-me></app-about-me>
+      <app-about-me [aboutMe]="aboutMe"></app-about-me>
     </div>
     <div class="dprofile-s">
-      <app-data-profile></app-data-profile>
+      <app-data-profile [aboutMe]="aboutMe"></app-data-profile>
     </div>
 
   </div>
 </div>
 
 <div>
-  <app-formation></app-formation>
+  <app-formation [formation]="formation"></app-formation>
 </div>
 
 <section>
@@ -23,16 +23,16 @@
       <div class="col-md-6 order-2">
 
         <div>
-          <app-experience></app-experience>
+          <app-experience [experience]="experience"></app-experience>
         </div>
       </div>
 
       <div class="col-md-6 order-1">
         <div class="p-5">
 
-          <app-skill></app-skill>
+          <app-skill [skill]="skill"></app-skill>
 
-          <app-language></app-language>
+          <app-language [language]="language"></app-language>
 
         </div>
       </div>

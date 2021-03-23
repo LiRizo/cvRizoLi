@@ -3,13 +3,13 @@
     <h1 class="title-s">Idioma</h1>
   </div>
 
-  <div class="lenguage-s" *ngFor="let language of languages; index as i">
+  <div class="lenguage-s" *ngFor="let item of language; index as i">
     <div class="space-s">
-      <h2>{{language.nombre_idioma}}</h2>
+      <h2>{{item.nombre_idioma}}</h2>
     </div>
     <div class="level-s">
-      <h2 style="color: #ebb940;">{{language.inicial_nivel}}</h2>
-      <h2>{{language.nivel_idioma}}</h2>
+      <h2 style="color: #ebb940;">{{item.inicial_nivel}}</h2>
+      <h2>{{item.nivel_idioma}}</h2>
     </div>
 
   </div>

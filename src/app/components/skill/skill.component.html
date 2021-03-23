@@ -4,10 +4,10 @@
   </div>
 
 
-  <div class="card mt-2" style="width: 8rem; background: none; border: none;" *ngFor="let skill of skills; index as i">
-    <img src="{{skill.logo}}" class="card-img-top" style="width: 6rem;" alt="...">
+  <div class="card mt-2" style="width: 8rem; background: none; border: none;" *ngFor="let item of skill; index as i">
+    <img src="{{item.logo}}" class="card-img-top" style="width: 6rem;" alt="...">
     <div class="card-body">
-      <p class="card-title">{{skill.nombre_conocimiento}}</p>
+      <p class="card-title">{{item.nombre_conocimiento}}</p>
 
     </div>
   </div>

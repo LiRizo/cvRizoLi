@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { CvService } from 'src/app/cv.service';
 
 @Component({
@@ -8,23 +8,12 @@ import { CvService } from 'src/app/cv.service';
 })
 export class FormationComponent implements OnInit {
 
-  cvData: any[];
-  formations: any[];
+  @Input() formation: any[];
 
   constructor(private cvService: CvService) { }
 
 
   ngOnInit(): void {
-    this.cvService.getCv().subscribe(
-      (data) => {
-        this.cvData = data;
-        this.formations = this.cvData['formacion'];
-
-      },
-      (err) => {
-        console.log(err);
-      }
-    );
   }
 
 }

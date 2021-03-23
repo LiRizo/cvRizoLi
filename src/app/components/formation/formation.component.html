@@ -5,10 +5,10 @@
 </div>
 <div class="d-flex justify-content-center">
 
-  <div class="m-auto" style="width: 15rem;" *ngFor="let formation of formations; index as i">
+  <div class="m-auto" style="width: 15rem;" *ngFor="let item of formation; index as i">
     <div class="">
-      <h1 class="">{{formation.nombre_formacion}}</h1>
-      <p class="">{{formation.detalle_formacion}}</p>
+      <h1 class="">{{item.nombre_formacion}}</h1>
+      <p class="">{{item.detalle_formacion}}</p>
     </div>
   </div>
 </div>
@@ -17,7 +17,7 @@
 <br>
 
 <div class="d-flex justify-content-center">
-  <div class="m-auto" *ngFor="let formation of formations; index as i">
-    <h2 class="">{{formation.fecha}}</h2>
+  <div class="m-auto" *ngFor="let item of formation; index as i">
+    <h2 class="">{{item.fecha}}</h2>
   </div>
 </div>

@@ -1,12 +1,16 @@
 {
-  "nombre_completo":"Linda Canaima ",
-  "apellidos": "Rizo Contreras",
-  "especialidad": "Frontend Developer",
-  "descripcion":"Soy creativa, tengo habilidades de planificación, pasión por el aprendizaje continuo, buen manejo de relaciones interpersonales, flexibilidad y adaptación en nuevos ambientes de trabajo.",
-  "correo":"lirizoc@gmail.com",
-  "github":"https://github.com/LiRizo",
-  "numero": "+56987787597",
-  "linkedin":"https://github.com/LiRizo/cvRizoLi/blob/master/src/assets/img/qrLinkedin.jpg?raw=true",
+  "sobre_mi":[
+    {
+       "nombre_completo":"Linda Canaima ",
+       "apellidos": "Rizo Contreras",
+       "especialidad": "Frontend Developer",
+       "descripcion":"Soy creativa, tengo habilidades de planificación, pasión por el aprendizaje continuo, buen manejo de relaciones interpersonales, flexibilidad y adaptación en nuevos ambientes de trabajo.",
+       "correo":"lirizoc@gmail.com",
+       "github":"https://github.com/LiRizo",
+       "numero": "+56987787597",
+       "linkedin":"https://github.com/LiRizo/cvRizoLi/blob/master/src/assets/img/qrLinkedin.jpg?raw=true"
+    }
+  ],
   "formacion":[
       {
           "nombre_formacion":"C & C",

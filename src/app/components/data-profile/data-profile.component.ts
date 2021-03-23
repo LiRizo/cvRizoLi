@@ -1,5 +1,4 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { CvService } from 'src/app/cv.service';
 
 @Component({
   selector: 'app-data-profile',
@@ -8,27 +7,11 @@ import { CvService } from 'src/app/cv.service';
 })
 export class DataProfileComponent implements OnInit {
 
-  cvData: any[];
-  mail: any[];
-  github: string;
-  number: number;
-  linkedin: any[];
+  @Input() aboutMe: any[];
 
-  constructor(private cvService : CvService) { }
+  constructor() { }
 
   ngOnInit(): void {
-    this.cvService.getCv().subscribe(
-      (data) => {
-        this.cvData = data;
-        this.mail = this.cvData['correo'];
-        this.github = this.cvData['github'];
-        this.number = this.cvData['numero'];
-        this.linkedin = this.cvData['linkedin'];
-      },
-      (err) => {
-        console.log(err);
-      }
-    );
   }
 
 }

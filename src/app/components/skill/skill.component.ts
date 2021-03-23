@@ -1,6 +1,4 @@
-import { Component, OnInit } from '@angular/core';
-import { CvService } from 'src/app/cv.service';
-
+import { Component, Input, OnInit } from '@angular/core';
 @Component({
   selector: 'app-skill',
   templateUrl: './skill.component.html',
@@ -8,21 +6,11 @@ import { CvService } from 'src/app/cv.service';
 })
 export class SkillComponent implements OnInit {
 
-  cvData: any[];
-  skills: any[];
+  @Input() skill: any[];
 
-  constructor(private cvService : CvService) { }
+  constructor() { }
 
   ngOnInit(): void {
-    this.cvService.getCv().subscribe(
-      (data) => {
-        this.cvData = data;
-        this.skills = this.cvData['conocimientos'];
-      },
-      (err) => {
-        console.log(err);
-      }
-    );
   }
 
 }

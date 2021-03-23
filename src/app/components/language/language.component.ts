@@ -1,5 +1,4 @@
-import { Component, OnInit } from '@angular/core';
-import { CvService } from 'src/app/cv.service';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-language',
@@ -8,22 +7,11 @@ import { CvService } from 'src/app/cv.service';
 })
 export class LanguageComponent implements OnInit {
 
-cvData: any[];
-languages: any[];
+@Input() language: any[];
 
-  constructor(private cvService: CvService) { }
+  constructor() { }
 
   ngOnInit(): void {
-    this.cvService.getCv().subscribe(
-      (data) => {
-        this.cvData = data;
-        this.languages = this.cvData['idioma'];
-
-      },
-      (err) => {
-        console.log(err);
-      }
-    );
   }
 
 }
